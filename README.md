@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Nabeel Aref! <br/>Bachelor of Computer Science</a></h1>
 
-<!--
-**NabeelAref98/NabeelAref98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Java</b>
+  - [Inventory Management System (Java GUI Application Demo)](https://github.com/NabeelAref98/invappjava)
+  - [Scheduling Application (Java GUI Application Demo)](https://github.com/NabeelAref98/javaguiapp.git)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NabeelAref98/WGUPSwork)
+  - [Gas Price Predictor (Machine Learning Demo)](https://github.com/NabeelAref98/capstone/tree/main)
+- <b>C++</b>
+  - [Class Roster (C++ Demo)](https://github.com/NabeelAref98/clssrstr)
