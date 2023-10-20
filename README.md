@@ -19,7 +19,7 @@ Bachelor of Science – Computer Science, Western Governors University
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory Lab</b>
+- <b>Active Directory</b>
 	- [Active Directory Exploration Lab](https://github.com/NabeelAref98/activedirectorylab)
 
 
