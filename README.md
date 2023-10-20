@@ -20,7 +20,7 @@ Bachelor of Science – Computer Science, Western Governors University
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Lab</b>
-	- [Active Directory Lab here](https://github.com/NabeelAref98/invappjava)
+	- [Active Directory Exploration Lab](https://github.com/NabeelAref98/invappjava)
 
 
 - <b>Java</b>
